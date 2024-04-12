@@ -1,0 +1,11 @@
+.layout_container{
+    display: flex;
+    align-items: start;
+    justify-content: space-between;
+    background-color: #e6e9f1;
+}
+
+.outlet_container{
+width: 80%;
+padding: 3%;
+}

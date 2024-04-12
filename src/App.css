@@ -1,0 +1,30 @@
+.App{
+margin: 0;
+padding: 0;
+width: 100vw;
+min-height: 100vh;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+a, p, div{
+    /* font-size: 24px; */
+    font-family: sans-serif;
+}
+
+a{
+    text-decoration: none;
+}
+
+ul, li{
+    list-style: none;
+}
+
+.active{
+    background-color: #5932ea;
+    color: white;
+}

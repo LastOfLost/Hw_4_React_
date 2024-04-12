@@ -1,0 +1,17 @@
+
+.nav_container{
+    margin: 12px;
+    border-radius: 20px;
+    background-color: #fff;
+    display: block;
+    min-width: 15%;
+    min-height: 100vh;
+    padding: 36px 28px;
+}
+
+.nav_btn{
+    display: block;
+    padding: 10px 0px 10px 10px;
+    border-radius: 10px;
+    width: 100%;
+}
